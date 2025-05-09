@@ -1,8 +1,8 @@
 # <div align='center'> 👩🏻‍💻 Thiago Henry Dias </div>
 
-**`Anlista de Desenvolvimento de Sistemas`**
+**`Analista de Desenvolvimento de Sistemas`**
 
-Me chamo Thiago Henry, tenho 20 anos. Atualmente estou na FIAP, cursando Analista de Desenvolvimento de Sistemas.
+Me chamo Thiago Henry, tenho 20 anos. Atualmente estou na FIAP, cursando Analista e Desenvolvimento de Sistemas.
 
 ---
 
