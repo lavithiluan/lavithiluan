@@ -22,12 +22,14 @@ Me chamo Thiago Henry, tenho 20 anos. Atualmente estou na FIAP, cursando Analist
 
 <!-- Estatísticas gerais -->
 <img 
+    align="left" 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=Lavithiluan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"
 />
 
 <!-- Linguagens mais usadas -->
-<img 
+<img
+    align="right" 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavithiluan&theme=dracula&layout=compact&langs_count=8&custom_title=Tecnologias"
 />
